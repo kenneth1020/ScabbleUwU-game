@@ -13,9 +13,13 @@ If user doesn't comply with warning. Program will inciate UwU hell
 User has ten lives. Losing all of them is game over.
 
 -----How to lose a life.-------
-1 type in a blank or null
+
+1 type in a blank or null 
+
 2 used letters that are not given to the user
+
 3 the word is not in the index
+
 4 using the same word that user used to get the point
 
 # Files
