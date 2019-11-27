@@ -29,7 +29,8 @@ File in my code used "Collins Srabble Words (2019).txt
 import java.io.File; # new file("[name of file]")
 
 import java.io.FileNotFoundException; # catch(FileNotFoundException e){  
-System.out.println("Error opening the file." + [file name]  +  "Why you no, READ my file!!!");
+System.out.println("Error opening the file." 
++ [file name]  +  "Why you no, READ my file!!!");
 			e.printStackTrace();  
       }
       
