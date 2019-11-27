@@ -23,8 +23,15 @@ User has ten lives. Losing all of them is game over.
 4 using the same word that user used to get the point
 
 # Files
-File in my code used "Collins Srabble Words (2019).txt
+Collins Srabble Words (2019).txt --- this file is used as the referance for index of words
 
+Final Project CPSC-39 Scrabble UWU game.docx --- This file is my full report on my code
+
+ScabbleArray.java --- The main program of the scrabble game
+
+Scabbles.java --- The constructor for the wordList array when reading the file Collins Srabble Words (2019).txt 
+
+TESTCODE.java --- The purpose of this is to test my detect method and debug it seperate from my code 
 # Usage
 import java.io.File; # new file("[name of file]")
 
