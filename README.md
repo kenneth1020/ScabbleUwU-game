@@ -3,12 +3,12 @@ A text base game in java. The game is scabble
 
 # Description
 The game purpose is to ask the user his name. Then ask if user want to play. 
-If they say yes then the game will start and give the user 10 letters in an array at least one is a vowel.
+If they say yes, then the game will start and give the user 10 letters in an array at least one is a vowel.
 The user job is to put together using the word given. If the word is in the index they gain one point.
 
---Side note: When ask if you want to play. If user hit no then the program stops and say goodbye. 
+--Side note: When ask if you want to play. If user hit no, then the program stops and say goodbye. 
 If user type anything else program will response asking the user to read carefully. 
-If user doesn't comply with warning. Program will inciate UwU hell 
+If user doesn't comply with warning. Program will initiate UwU hell 
 
 User has ten lives. Losing all of them is game over.
 
