@@ -23,7 +23,7 @@ User has ten lives. Losing all of them is game over.
 4 using the same word that user used to get the point
 
 # Files
-Collins Srabble Words (2019).txt --- this file is used as the referance for index of words
+Collins Srabble Words (2019).txt --- This file is used as the referance for index of words
 
 Final Project CPSC-39 Scrabble UWU game.docx --- This file is my full report on my code
 
